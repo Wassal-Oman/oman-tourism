@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "51929792095",
+    "firebase_url": "https://oman-tourism.firebaseio.com",
+    "project_id": "oman-tourism",
+    "storage_bucket": "oman-tourism.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:51929792095:android:c8f03d0764f2ddf7",
+        "android_client_info": {
+          "package_name": "com.example.omantourism"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "51929792095-5bcj30tbrl5oqgjlgqaqokh14cbpkvql.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.omantourism",
+            "certificate_hash": "087e0cc1a9cdb044d753f0711e9873b69f78cdcc"
+          }
+        },
+        {
+          "client_id": "51929792095-va3j8lcq9cae4pej0qsupeec7korjrfj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtXX9cdAhZP_TrW7TeGmpRDtAR3iOE2AY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "51929792095-va3j8lcq9cae4pej0qsupeec7korjrfj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

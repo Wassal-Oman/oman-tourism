@@ -31,11 +31,11 @@ class AppDrawer extends StatelessWidget {
             ),
           ),
           ListTile(
-            title: Text('Item 1'),
+            title: Text('Place Cataloge'),
             onTap: () {},
           ),
           ListTile(
-            title: Text('Item 2'),
+            title: Text('Booking Details'),
             onTap: () {},
           ),
         ],
